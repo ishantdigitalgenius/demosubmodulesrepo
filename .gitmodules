@@ -1,4 +1,4 @@
 [submodule "DG_Assets.resource"]
 	path = DG_Assets.resource
 	url = https://github.com/DigitalGenius/salesforce-app-ci.git
-	ignore = README.md
+	ignore = dirty
